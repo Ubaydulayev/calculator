@@ -1,0 +1,29 @@
+.container {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10rem;
+  padding: 20px;
+
+  text-align: center;
+  background: darkgrey;
+  border: 1px solid dimgray;
+  border-radius: 5px;
+}
+
+.output {
+  margin-bottom: 2rem;
+}
+
+input {
+  text-align: right;
+  font-size: 30px;
+}
+
+button {
+  font-size: 30px;
+  margin: 6px;
+  height: 3rem;
+  width: 7rem;
+}
+
